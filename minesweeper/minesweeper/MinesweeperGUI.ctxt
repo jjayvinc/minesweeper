@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MinesweeperGUI
+comment1.params=rows\ cols\ mines
+comment1.target=MinesweeperGUI(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ buildUI()
+comment3.params=e
+comment3.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=void\ setupTimer()
+comment5.params=
+comment5.target=void\ startTimerIfNeeded()
+comment6.params=
+comment6.target=void\ stopTimer()
+comment7.params=r\ c
+comment7.target=void\ handleReveal(int,\ int)
+comment8.params=r\ c
+comment8.target=void\ handleFlag(int,\ int)
+comment9.params=
+comment9.target=void\ resetGame()
+numComments=10
